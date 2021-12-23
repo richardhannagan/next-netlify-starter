@@ -7,8 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>international waters funk</title>
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
 
       </Head>
 
