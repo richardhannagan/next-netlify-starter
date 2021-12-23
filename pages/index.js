@@ -15,7 +15,7 @@ export default function Home() {
       <main>
         <Header title="russia" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          while their name is russia, these sparkly jacket and purple jewel-clad funk divas hail from melbourne. when you hear them you'll know that their sound is an ode to the funk of old, while forging a contemporary path woven with pop elements. prepare to be engrossed in a high energy charismatic experience.
         </p>
       </main>
 
